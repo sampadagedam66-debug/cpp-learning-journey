@@ -51,13 +51,13 @@ On Windows, run `program.exe` instead of `./program`.
 
 ## What's next
 
-- [ ] If/else and switch statements
-- [ ] Loops (for, while, do-while)
-- [ ] Functions
-- [ ] Arrays and strings
-- [ ] Pointers
-- [ ] Classes and objects (OOP)
-- [ ] A few mini projects, like a to-do list and a number guessing game
+-  If/else and switch statements
+  Loops (for, while, do-while)
+  Functions
+  Arrays and strings
+  Pointers
+  Classes and objects (OOP)
+  A few mini projects
 
 ## A note to anyone who lands here
 
